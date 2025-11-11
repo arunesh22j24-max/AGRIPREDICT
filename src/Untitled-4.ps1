@@ -1,0 +1,1 @@
+curl -Method POST -Uri "http://localhost:5000/predict" -ContentType "application/json" -Body '{"soil_type":"loamy","crop_type":"wheat","irrigation_type":"drip","acres":5,"lat":20.3,"lon":85.8,"model":"lgb"}'

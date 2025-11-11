@@ -1,0 +1,1 @@
+$env:OPENAI_API_KEY="sk-..." ; python ml_yield_predictor.py

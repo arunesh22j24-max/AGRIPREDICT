@@ -1,0 +1,16 @@
+soil_type,crop_type,irrigation_type,acres,lat,lon,yield_per_acre,predicted_yield_per_acre,total_yield
+loamy,Wheat,drip,10,20.3,85.8,3.2,3.2,32.0
+loamy,Rice,sprinkler,8,20.3,85.8,2.8,2.8,22.4
+sandy,Peanuts,drip,12,20.4,85.9,2.1,2.1,25.2
+clay,Cotton,canal,15,20.2,85.7,2.5,2.5,37.5
+black,Sugarcane,drip,20,20.5,85.6,4.0,4.0,80.0
+alluvial,Vegetables,drip,5,20.3,85.8,2.7,2.7,13.5
+red,Millets,rainfed,7,20.1,85.5,1.9,1.9,13.3
+laterite,Cashew,drip,9,20.6,85.4,2.3,2.3,20.7
+peaty,Potatoes,drip,6,20.3,85.8,2.6,2.6,15.6
+saline,Barley,drip,11,20.3,85.8,2.0,2.0,22.0
+mixed,Pulses,drip,13,20.3,85.8,2.2,2.2,28.6
+loamy,Banana,drip,10,20.3,85.8,3.5,3.5,35.0
+sandy,Watermelon,drip,8,20.3,85.8,2.9,2.9,23.2
+clay,Onions,drip,14,20.3,85.8,2.4,2.4,33.6
+black,Groundnut,drip,10,20.3,85.8,2.1,2.1,21.0

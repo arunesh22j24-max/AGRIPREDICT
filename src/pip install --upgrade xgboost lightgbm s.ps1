@@ -1,0 +1,1 @@
+pip install --upgrade xgboost lightgbm scikit-learn scipy numpy flask flask-cors
