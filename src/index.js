@@ -2,7 +2,7 @@ import React from 'react';
 import './styles.css';
 import ReactDOM from 'react-dom/client';
 import LeafletMapPicker from './LeafletMapPicker';
-import AuthForm from './AuthForm';
+//import AuthForm from './AuthForm';
 // Soil detection using ISRIC SoilGrids API
 async function detectSoilType(lat, lon) {
   try {
